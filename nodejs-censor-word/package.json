@@ -1,0 +1,15 @@
+{
+  "name": "censor-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.1.2",
+    "line-by-line": "^0.1.6"
+  }
+}
